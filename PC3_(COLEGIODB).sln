@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PC3_(COLEGIODB)", "PC3_(COLEGIODB).vbproj", "{8388216F-071E-4373-B585-B8D9DA14A81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8388216F-071E-4373-B585-B8D9DA14A81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8388216F-071E-4373-B585-B8D9DA14A81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8388216F-071E-4373-B585-B8D9DA14A81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8388216F-071E-4373-B585-B8D9DA14A81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5B6D06-2A36-45C2-86FA-2599697F2497}
+	EndGlobalSection
+EndGlobal
